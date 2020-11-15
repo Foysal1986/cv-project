@@ -1,0 +1,116 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color: #EEE;
+	font-family: 'Goldman', cursive;
+	font-family: 'Ubuntu', sans-serif;
+}
+.container{
+	
+	max-width: 1000px;
+	background-color:  #b1dae7;
+	margin: 0 auto;
+	padding:20px;
+
+}
+.profile-pic{
+	width: 100px;
+	height: 120px;
+	border:3px solid white;
+	float: left;
+
+
+}
+h1,h2,h3,h4,h5,h6{
+	color: #11999e;
+
+}
+.profile-bio{
+	float: left;
+	padding: 30px;
+
+} 
+.profile-contact{
+	float:right;
+	padding:30px;
+}
+
+.profile-contact a{
+	text-decoration: none;
+	color:teal;
+	font-weight: bold;
+}
+.profile-contact a:hover{
+	text-decoration: underline;
+	color:tomato;
+}
+.clear-div{
+	clear:both;
+
+}
+hr{
+	border-bottom: none;
+	margin:22px auto;
+	border:black 2px solid;
+	width:100%;
+}
+
+/*header end*/
+
+.left-div{
+	float: left;
+	width: 30%;
+	
+
+}
+
+.right-div{
+	width: 70%;
+	float: left;
+	
+}
+.clear-div{
+	clear:both;
+
+}
+.hr-secend{
+	border-bottom: none;
+	margin:20px auto;
+	border:black 1px solid;
+	width:100%;
+	
+}
+
+.right-div{
+
+}
+.right-div-left{
+	float: left;
+	width: 45%;
+}
+.right-div-right{
+	float: right;
+	width: 45%;
+}
+.ft{
+	background-color: black;
+	
+	
+	text-align:center;
+	padding:10px;
+
+}
+
+.ft a{
+	text-decoration: none;
+	color: white;
+	margin:20px;
+}
+.ft p{
+	color: white;
+	margin-top:20px;
+
+}
